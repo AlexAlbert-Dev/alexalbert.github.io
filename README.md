@@ -1,2 +1,2 @@
 # alexalbert.github.io
-Blog pessoal de estudos
+Anotações e Projetos do Alex Albert
